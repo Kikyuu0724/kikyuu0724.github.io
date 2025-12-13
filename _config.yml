@@ -1,5 +1,5 @@
 # Site settings
-title: BY Blog
+title: My Blog
 SEOTitle: Kikyuu的博客 | My Blog
 header-img: img/post-bg-desk.jpg
 email: 2264858737@qq.com
@@ -61,7 +61,7 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    : fa'l    #是否
+  enable: false
   clientID: f2c84e7629bb1446c1a4                            #生成的clientID
   clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
   repo: qiubaiying.github.io    #仓库名称
